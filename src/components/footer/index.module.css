@@ -1,0 +1,34 @@
+.footer {
+    padding: 20px 0;
+}
+
+.contnet {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.moreIcon {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    cursor: pointer;
+}
+
+.moreIcon span {
+    width: 4px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+.wrapperLike {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-right: 10px;
+}
+
+.wrapperLike svg {
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.precent {
+    color: #797979;
+}
+
+.precent span {
+    color: green;
+}
+
+.precentLine {
+    width: 100%;
+    height: 15px;
+    border-radius: 30px;
+    background-color: #797979;
+}
+
+.precentLine p {
+    height: 15px;
+    border-radius: 30px 5px 5px 30px;
+    background-color: green;
+}
